@@ -1,3 +1,4 @@
+import math
 # numbers
 a=1
 b = 10
@@ -33,4 +34,11 @@ print(a)
 
 
 #work with the numbers
+
+# round a number 
+print(1.5)
+print(round(1.5))
+print(abs(-1.5))
+
+print(math.ceil(2.2))
 
