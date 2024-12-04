@@ -225,19 +225,100 @@
 // export default App
 
 // ============================================================================
-import React from 'react'
-import TemperatureDisplay from './TemperatureDisplay'
+// import React from 'react'
+// import TemperatureConverter from './TemperatureConverter';
 
-const App = () => {
-  return (
-    <div>
-      <TemperatureDisplay/>
+
+// const App = () => {
+//   return (
+//     <div>
+//       <center>
+//       <TemperatureConverter/>
+//       </center>
       
-    </div>
-  )
-}
+      
+//     </div>
+//   )
+// }
 
-export default App
+// export default App;
+
+// ===================================================================================
+
+// import React, { useState } from 'react';
+
+
+// const App = () => {
+//   const [count, setCount] = useState(0);
+//   const increment = () => {
+
+//     setCount(prevCount => prevCount + 1);
+    
+//   }
+//   const decrement = () => {
+
+//     setCount(prevCount => prevCount - 1);
+    
+//   }
+
+//   return (
+//     <div>
+//       <h1>Counter:{count}</h1>
+//       <button onClick={increment}>increment</button>
+//       <button onClick={decrement}>decrement</button>
+//     </div>
+//   )
+// }
+
+// export default App
+
+
+// ============================================================================
+// import React from 'react'
+// import ToggleComponent from './ToggleComponent'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <ToggleComponent/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// ===========================================================================
+// import React from 'react'
+// import TwoWayDataBinding from './TwoWayDataBinding'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <TwoWayDataBinding/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// =============================================
+// import React from 'react'
+// import StateArrayExample from './StateArrayExample'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <StateArrayExample />
+      
+//     </div>
+//   )
+// }
+
+// export default App
+
+
+
+
 
 
 
