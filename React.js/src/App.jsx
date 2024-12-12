@@ -360,26 +360,124 @@
 // export default App
 
 // ====================================================
+// import React from 'react'
+// import UserProfile1 from './UserProfile1'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <UserProfile1/>
+      
+//     </div>
+//   )
+// }
+
+// export default App
+
+// ============================================================
+// import React from 'react'
+// import DataFetchingComponent from './DataFetchingComponent'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <DataFetchingComponent/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// ===================================================================
+// import React from 'react'
+// import TitleUpdater from './TitleUpdater'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <TitleUpdater/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// =======================================================
+// import React from 'react'
+// import WindowResizeListener from './WindowResizeListener'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <WindowResizeListener/>
+//     </div>
+//   )
+// }
+
+// export default App
+// ========================================================
+// import React from 'react'
+// import DataFetchingComponent1 from './DataFetchingComponent1'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <DataFetchingComponent1/>
+
+//     </div>
+//   )
+// }
+
+// export default App
+
+// ==============================================
+// import React,{ useState } from 'react'
+// import ProductDetail from './ProductDetail';
+
+// const App = () => {
+//   const [productId, setProductId] = useState(1);
+
+
+//   const handleChangeProduct = ()=>{
+//     setProductId(prevId=>(prevId === 1 ? 2 : 1))
+//   }
+
+//   return (
+//     <div>
+//       <button onClick={handleChangeProduct}>Toggle Product</button>
+//       <ProductDetail productId={productId}/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// ===================================================================
+// import React from 'react'
+// import TimerComponent from './TimerComponent'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <TimerComponent/>
+//     </div>
+//   )
+// }
+
+// export default App
+
 import React from 'react'
-import UserProfile1 from './UserProfile1'
+import MyComponent2 from './MyComponent2'
 
 const App = () => {
   return (
     <div>
-      <UserProfile1/>
-      
+      <MyComponent2/>
     </div>
   )
 }
 
 export default App
-
-
-
-
-
-
-
 
 
 
