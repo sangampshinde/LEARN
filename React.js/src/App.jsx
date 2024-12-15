@@ -465,23 +465,171 @@
 // }
 
 // export default App
+// ======================================================
+// import React from 'react'
+// import MyComponent2 from './MyComponent2'
 
+// const App = () => {
+//   return (
+//     <div>
+//       <MyComponent2/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// =======================================
+// import React from 'react'
+// import MyComponent3 from './MyComponent3'
+// const App = () => {
+//   return (
+//     <div>
+//       <MyComponent3/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// =============================================
+// import React from 'react'
+// import MyComponent4 from './MyComponent4';
+
+// const App = () => {
+
+
+//   return (
+//     <div>
+//       <MyComponent4/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+//============================================================
+// import React from 'react'
+// import MyComponent5 from './MyComponent5'
+
+// const App = () => {
+  
+//   return (
+//     <div>
+//       <MyComponent5/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// ==========================================================
+// import React from 'react'
+// import ControlledForm from './ControlledForm'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <ControlledForm/>
+//     </div>
+//   )
+// }
+
+// export default App
+// ================================================================
+// import React from 'react'
+// import FormSubmissionExample from './FormSubmissionExample'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <FormSubmissionExample/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// ====================================================================
+// import React from 'react'
+// import ControlledUncontrolledExample from './ControlledUncontrolledExample'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <ControlledUncontrolledExample/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// =============================================================
+// import React from 'react'
+// import CheckboxExample from './CheckboxExample'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <CheckboxExample/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// ==========================================================
+// import React from 'react'
+// import MultiInputForm from './MultiInputForm'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <MultiInputForm/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// =============================================================
+// import React from 'react'
+// import RadioButtonExample from './RadioButtonExample'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <RadioButtonExample/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// ====================================================================
+// import React from 'react'
+// import SelectDropdownExample from './SelectDropdownExample'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <SelectDropdownExample/>
+//     </div>
+//   )
+// }
+
+// export default App
+
+// ===============================================================
 import React from 'react'
-import MyComponent2 from './MyComponent2'
+import FormWithValidation from './FormWithValidation'
 
 const App = () => {
   return (
     <div>
-      <MyComponent2/>
+      <FormWithValidation/>
     </div>
   )
 }
 
 export default App
-
-
-
-
-
-
-
